@@ -1,0 +1,97 @@
+*{
+    margin:0;
+    padding:0;
+}
+*{
+    background-color: bisque;
+}
+/* .image{ */
+    /* padding-left: 350px; */
+    /* padding-top: 10px; */
+/* } */
+/* .para{ */
+    /* padding-left: 520px; */
+    /* padding-top: 5px; */
+    /* font-size: 50px; */
+/* } */
+.login{
+    padding-left: 400px;
+    padding: top 100px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    padding: bottom 50px; ;
+}
+.div{
+    padding-left: 350px;
+}
+.div img{
+    padding-top: 20px;
+}
+.div h1{
+    padding-left: 300px;
+    padding-top: 2%;
+}
+.username{
+    padding-left: 10px;
+    margin-left: 450px;
+    font-weight: 700;
+}
+.password{
+    padding-left:10px ;
+    margin-left: 450px;
+    font-weight: 700;
+}
+.submitbutton{
+    padding-left:10px ;
+    margin-left: 450px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+.xyz{
+    margin-left:600px;
+    margin-top: 50px;
+}
+.note{
+    margin-left: 400px;
+}
+::placeholder{
+    color: black;
+}
+.neha{
+    padding-left: 350px;
+    padding-bottom: 20px;
+}
+.bittu{
+    padding-left: 140px;
+    margin-top: 100px;
+}
+a:link, a:visited {
+    border-radius: 2em;
+    background-color: rgb(255, 228, 196);
+    color: black;
+    border: 2px solid rgb(107, 67, 119);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color:coral;
+    border-radius: 2em;
+    color: white;
+  }
+
+  input {
+    display: block;
+    width: 200px;
+    padding: 5px 20px;
+    border-radius: 2em;
+    color: rgb(107, 67, 119);
+}
+input,
+input::placeholder {
+    font: 15px sans-serif;
+    color: rgb(0, 0, 0);
+}

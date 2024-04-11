@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin:0;
+    background-color:bisque
+}
+.fixedbg {
+    background-image: url("img1.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div.heading{
+    padding-left: 620px;
+    font-size: 40px;
+}
+input {
+    display:block;
+    width: 200px;
+    padding: 5px 20px;
+    border-radius: 2em;
+    color:black;
+}
+div.laptop{
+    padding-left: 280px;
+    font-size: larger;
+}
+a:link, a:visited {
+    border-radius: 2em;
+    background-color: rgb(255, 228, 196);
+    color: black;
+    border: 2px solid rgb(107, 67, 119);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color:coral;
+    border-radius: 2em;
+    color: white;
+  }
+  .neha{
+    border-radius: 3em;
+    background-color: rgb(255, 228, 196);
+    color: black;
+    border: 2px solid rgb(107, 67, 119);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .neha {
+    background-color:coral;
+    border-radius: 2em;
+    color: white;
+  }
